@@ -2,6 +2,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{ with .Page.Title }}{{ . }}&nbsp;|&nbsp;{{ end}}{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
+  {{ if eq .Site.Title .Title}}{{.Site.Title}}{{end}}
+  	<title>{{ if eq (.Site.Title) (.Title) }}{{ .Site.Title }}{{ else }}{{ .Title }}&nbsp;&#124;&nbsp;{{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href='{{ "css/styles.css" | relURL }}'>
 </head>
