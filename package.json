@@ -1,0 +1,24 @@
+{
+  "name": "cornerhouse-dental-practice",
+  "version": "1.0.0",
+  "description": " New practice website build using Hugo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surreymagpie/cornerhouse-dental-practice.git"
+  },
+  "author": "Rob Curtis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surreymagpie/cornerhouse-dental-practice/issues"
+  },
+  "homepage": "https://github.com/surreymagpie/cornerhouse-dental-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
