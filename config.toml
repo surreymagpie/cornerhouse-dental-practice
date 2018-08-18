@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = ""
+languageCode = "en-gb"
+title = "Cornerhouse Dental Practice"
+sectionPagesMenu = "main"

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2018-08-18T17:02:07+01:00
-draft: true
+draft: false
 menu: main
 ---
 
