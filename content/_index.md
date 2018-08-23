@@ -1,53 +1,16 @@
 ---
 title: "Home"
 date: 2018-08-18T17:02:07+01:00
-draft: false
-menu: main
+menu:
+  main:
+    weight: 1
+    name: Home
 ---
 
-# Bracchia coniunx sequerere rictus protendens neque
+# Welcome to Cornerhouse Dental Practice
 
-## Qualis angues
+Located in one of the oldest buildings in Ashford, Surrey, the practice has been treating patients on this site since 1953. Established by Richard Francis, the practice was later taken over by his son Patrick. The current principal dentist is Robert Curtis who took over in 1999.
 
-Lorem markdownum videres latent haec furtis; concipe turribus in esse. Iuvenes
-frondibus soli vocatum proelia aristas despicit materiam rubet et crearit.
-Tantum aetheriae, primum.
+Over the years, we have seen many thousands of patients and our kind and gentle care has brought us the excellent reputation we hold today and of which we are very proud.
 
-- Percussit ipse gravitate
-- Cornua et quam dedere ipse
-- Scopulo in exorata futuri neptis
-- Pro femur deo colore servat latus volui
-
-Pius hanc flavae duro. Ingratumque flores conscia esset erit parcum elisa
-laboras incoluit astu ut portasque.
-
-Tum supponere, nomen tangeris subit et tacitus haec *Molossa omnes* de Licha
-[inutile](http://www.vosne.io/ipse-fuisset.html). Et tenebant, si capillo socia
-**meo montibus** dabitis sidereum; mansit oraque flavus, diu vinci ambage.
-Acceptus sanguine, ore, cui cupiens virtutem lexque in, deflevere nullos victa
-equidem ubi Oetaeus patria, et. Pittheia **vulnere**, duces: sonantes variarum
-inpius, praemia repulsa. Cum humum meis: modo: agros deos, non.
-
-## Est ubi terga poterat signum carmine caelum
-
-Vires habitataque, munus adhuc nimiis gentemque tempusque Achilles cacumina
-virgine. *Aliqua viros data*, quoque albas tum foret et fidae repetita Argo, me
-omnia iram praeferre stella.
-
-Totumque ex dictis a Aetne securior animoque inopes. Haec longa limine
-discriminis nostra inmiscuit terrae etiamnum dicta sentiat, alta Hymen et olivi
-et. Derigere facies noxque, animas dum usus, effugere me hoc, vite versum vicina
-uni. Onerosus nympha, nutricisque nisi fratris, donec miseratus obiecta
-Narcissumque!
-
-- Ligno desierant
-- Cingentia quam modo castos pinu poteras fecit
-- Fuit curvamine
-
-Atque spatio Hecabe, vatis manu modo dubitare revocantis recepi. In tibi ait has
-me pavens et in circumdata [inbutum](http://www.de.com/populosmanerent.html), et
-magnoque, Aulide. Coniunx oras Phrygiis lucis. Nec cur, nostraque se vires at
-matrem aquarum noverat nuda tollens **paterque** colubris *adiuvet*; cui.
-
-[Positis](http://procul.org/) vulnus; et tecta nuda potente. Malorum se ostendit
-primaque quoque thalamos certa si auro saevior frigore, cum in quid, suam.
+Many patients who have moved away from the area still attend this practice, choosing to continue with the dentists they trust rather than see someone new.
