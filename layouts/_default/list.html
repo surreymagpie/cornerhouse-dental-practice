@@ -2,12 +2,15 @@
 <h1 class="page-title">
   {{ .Title }}
 </h1>
-<ul class="content-list">
+<section class="content-list">
   {{ range .Pages }}
-  <li class="content-article">
-    <h3>{{ .Title }}</h3>
+  <article class="content-article">
+    <a href="{{ .Permalink }}" class="content-link">
+      <h3>{{ .Title }}</h3>
+    </a>
     <div class="content-summary">{{- .Summary -}}</div>
-  </li>
-  {{- end -}}
-</ul>
+    <a href="{{ .Permalink }}" class="read-more">Read more &raquo;</a>
+  </article>
+  {{ end -}}
+</section>
 {{ end}}
