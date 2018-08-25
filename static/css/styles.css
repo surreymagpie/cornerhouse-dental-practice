@@ -57,3 +57,68 @@ h6 {
   font-size: 1.125rem;
   line-height: 1.33333;
 }
+
+a {
+  text-decoration: none;
+  color: #6495ed;
+}
+
+.site-header {
+  margin-bottom: 1.5rem;
+}
+
+.header-wrapper {
+  max-width: 75rem;
+  padding-top: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 800px) {
+  .header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.site__home-link {
+  display: block;
+}
+
+.logo {
+  display: block;
+  width: 90vw;
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+#logo path {
+  fill: #6495ed;
+}
+
+.main-menu {
+  color: #6495ed;
+}
+
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.menu__link {
+  display: block;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  color: #6495ed;
+}
+
+.site-content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 75rem;
+  margin: 0 auto;
+}

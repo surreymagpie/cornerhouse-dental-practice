@@ -1,16 +1,20 @@
 <header class="site-header">
-  <svg class="logo">
-    <use xlink:href='{{ "img/sprite.svg" | relURL }}#logo' />
-  </svg>
+  <div class="header-wrapper">
+    <a href="{{ .Site.BaseURL }}" class="site__home-link">
+      <svg class="logo" viewBox="0 0 360 110">
+        <use xlink:href='{{ "img/sprite.svg" | relURL }}#logo' />
+      </svg>
+    </a>
 
-  <nav class="main-menu">
-    <ul class="menu">
+    <nav class="main-menu">
+      <ul class="menu">
 
-      {{ range .Site.Menus.main }}
-        <li class="menu__item">
-          <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
-        </li>
-      {{ end }}
-    </ul>
-  </nav>
+        {{ range .Site.Menus.main }}
+          <li class="menu__item">
+            <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
 </header>
