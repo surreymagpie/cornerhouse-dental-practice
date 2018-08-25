@@ -7,8 +7,8 @@ body {
 
 html {
   box-sizing: border-box;
-  font-size: 100%;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 body {
@@ -21,4 +21,39 @@ body {
 *::before,
 *::after {
   box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 1.75rem;
+  line-height: 1.71429;
+}
+
+h3 {
+  font-size: 1.625rem;
+  line-height: 1.84615;
+}
+
+h4 {
+  font-size: 1.4375rem;
+  line-height: 1.04348;
+}
+
+h5 {
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+h6 {
+  font-size: 1.125rem;
+  line-height: 1.33333;
 }
