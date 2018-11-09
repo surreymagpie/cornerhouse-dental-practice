@@ -63,6 +63,11 @@ a {
   color: #6495ed;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .site-header {
   margin-bottom: 1.5rem;
 }
@@ -91,10 +96,20 @@ a {
   width: 90vw;
   max-width: 360px;
   margin: 0 auto;
+  fill: #6495ed;
 }
 
-#logo path {
-  fill: #6495ed;
+.icon {
+  width: 72px;
+  margin: 8px 16px;
+}
+
+.icon--fb {
+  fill: #4267b2;
+}
+
+.icon--tw {
+  fill: #1dcaff;
 }
 
 .main-menu {
