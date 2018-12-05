@@ -2,3 +2,6 @@ baseURL = ""
 languageCode = "en-gb"
 title = "Cornerhouse Dental Practice"
 sectionPagesMenu = "main"
+
+[params]
+cloudinary_base_url = "https://res.cloudinary.com/dafweg6k8/"

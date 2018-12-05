@@ -1,0 +1,9 @@
+<img src="{{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_360/{{ .Get "img_id" }}"
+     srcset="{{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_360/{{ .Get "img_id" }} 360w,
+             {{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_480/{{ .Get "img_id" }} 480w,
+             {{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_640/{{ .Get "img_id" }} 640w,
+             {{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_800/{{ .Get "img_id" }} 800w,
+             {{ .Site.Params.cloudinary_base_url }}image/upload/ar_4:3,c_fill/w_960/{{ .Get "img_id" }} 960w"
+     sizes="(min-width: 75rem) 75rem, 100vw"
+     {{ with .Get "alt" }}alt="{{.}}"{{ end }}
+     class="img img__feature" />

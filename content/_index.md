@@ -9,6 +9,8 @@ menu:
 
 # Welcome to Cornerhouse Dental Practice
 
+{{< image/feature img_id="v1541711833/IMAG0027_0.jpg" alt="Our Practice Building" >}}
+
 Located in one of the oldest buildings in Ashford, Surrey, the practice has been treating patients on this site since 1953. Established by Richard Francis, the practice was later taken over by his son Patrick. The current principal dentist is Robert Curtis who took over in 1999.
 
 Over the years, we have seen many thousands of patients and our kind and gentle care has brought us the excellent reputation we hold today and of which we are very proud.
